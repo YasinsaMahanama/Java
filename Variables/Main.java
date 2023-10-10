@@ -3,7 +3,7 @@ public class Main {
     String name = "John";
     int X = 10;
     
-    System.out.println(name);
+    System.out.println("Hello" + name);
     System.out.println(X);
     
     X = 20;
