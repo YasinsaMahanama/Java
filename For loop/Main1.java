@@ -5,7 +5,7 @@ public class Main1 {
         Scanner scanner = new Scanner(System.in);
 
         int sum = 0;
-        for(int i = 1;i<=100;i++)
+        for(int i = 1;i<=500;i++)
         {
             if(i % 2 == 0)
             {
